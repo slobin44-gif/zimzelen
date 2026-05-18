@@ -102,6 +102,10 @@ section p {
   color: #444444;
 }
 
+.why-us .card {
+  background-color: #ffffff;
+}
+
 .hero {
   background:
     linear-gradient(rgba(244, 241, 234, 0.72), rgba(244, 241, 234, 0.72)),
