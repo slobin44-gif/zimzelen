@@ -180,6 +180,23 @@ section p {
   border: 1px solid rgba(31, 58, 46, 0.08);
 }
 
+.card-button {
+  display: inline-block;
+  margin-top: 18px;
+  padding: 10px 18px;
+  background-color: #1F3A2E;
+  color: #F4F1EA;
+  text-decoration: none;
+  border-radius: 8px;
+  font-size: 14px;
+  font-weight: 600;
+  transition: background-color 0.3s ease;
+}
+
+.card-button:hover {
+  background-color: #2A4A3A;
+}
+
 .card-image {
   width: 100%;
   height: 220px;
